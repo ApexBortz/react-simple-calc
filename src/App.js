@@ -27,7 +27,7 @@ class App extends Component {
     return (
       <>
         <div className="caclulator">
-          <h1>Add with React!</h1>
+          <h1>Calculator</h1>
 
           <form onSubmit={this.calculate}>
             <input type="number" 
